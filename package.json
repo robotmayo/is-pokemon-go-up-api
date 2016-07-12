@@ -1,0 +1,19 @@
+{
+  "name": "is-pokemon-go-up-api",
+  "version": "2.0.0",
+  "description": "API version of is-pokemon-go-up",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pokemongo",
+    "pokemon",
+    "api"
+  ],
+  "author": "robotmayo",
+  "license": "MIT",
+  "dependencies": {
+    "is-pokemon-go-up": "^0.1.0"
+  }
+}
